@@ -1,0 +1,16 @@
+{
+  "name": "pool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbconnection.js",
+  "scripts": {
+    "start": "node dbconnection",
+    "dev": "nodemon dbconnection"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
